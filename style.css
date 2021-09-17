@@ -1,0 +1,99 @@
+
+   h1 {   margin: 7px 0px 5px 10px;}
+   h2
+   {
+	   margin-left:10px;
+	   word-spacing: 15px;
+	   
+   }
+   h3 { 
+   color:white; 
+   font-family: Arial; 
+   font-size: 11pt;
+   margin-left:10px;
+   }
+
+   p {
+    word-spacing: 15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 9pt;
+	color:white;
+	margin-left:10px;
+   } 
+   li
+   {font-size:10px;
+
+   color:white;
+   margin-left:10px;
+  }
+
+td{
+vertical-align:bottom;
+width: 30px;
+height:20px;
+border: solid 1px silver;
+text-align:center;
+}
+ 
+
+div{
+margin: 0px;
+border: 1px solid blue;
+}
+#header{
+height: 20px;
+background-color: green;
+font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+#content{
+
+margin: 0 auto;
+height: auto;
+width: 350px; /* Ширина блока */
+background-color: blue;  
+ font-family: Geneva, Arial, Helvetica, sans-serif;    
+}
+#footer{
+height: 20px;
+background-color: green;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.square{
+float:left;
+margin:10px;
+width: 50px;
+height:50px;
+border: 2px solid white;
+border-top-left-radius: 10px;
+border-top-right-radius: 0px; 
+border-bottom-right-radius: 10px; 
+border-bottom-left-radius: 0px; 
+}
+
+.block1 {
+color: PaleGreen;
+font-size:15px ;
+text-align:center;
+font-family:Times New Roman;
+}
+
+.block2 {
+color: white;
+font-size:1em ;
+color:white;
+font-family:Arial;
+}
+
+.block3 {
+color: white;
+font-size:12px ;
+color:white;
+font-family:candara;
+}
+.brd {
+    border: 1px; /* Параметры границы */
+	border-color:white;
+    padding:1px;
+    border-style: solid;	
+   }
